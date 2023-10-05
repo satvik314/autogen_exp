@@ -1,0 +1,3 @@
+pyautogen
+langchain
+python-dotenv
